@@ -9,7 +9,7 @@ class Person
 	def age
 		@age
 	end
-	
+
 
 end
 
@@ -29,4 +29,4 @@ end
 		
 	end 
 	
-	puts all_the_people
+	
